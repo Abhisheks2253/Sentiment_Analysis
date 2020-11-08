@@ -8,4 +8,4 @@
 
 
 ### V2.0 -- Used NLTK Library for text cleaning - normalization, stopwords, stemming, lemmetization 
-### The fucntion returns sentiments based on text query and not the twitter username
+### The function returns sentiments based on text query and not the twitter username
